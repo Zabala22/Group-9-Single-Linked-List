@@ -1,0 +1,12 @@
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\bin\Debug\net6.0\SingleLinkedList.deps.json
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\bin\Debug\net6.0\SingleLinkedList.dll
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\bin\Debug\net6.0\SingleLinkedList.pdb
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.csproj.AssemblyReference.cache
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.AssemblyInfoInputs.cache
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.AssemblyInfo.cs
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.dll
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\obj\Debug\net6.0\refint\SingleLinkedList.dll
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\obj\Debug\net6.0\SingleLinkedList.pdb
+C:\Users\zabal\source\repos\MyLinkedList\SingleLinkedList\obj\Debug\net6.0\ref\SingleLinkedList.dll
